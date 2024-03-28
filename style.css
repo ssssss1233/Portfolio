@@ -1,0 +1,62 @@
+#home{
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+
+#nnd{
+    float: left;
+    width: 100%;
+    position: fixed;
+    margin-top:0px;
+    padding: 20px;
+    color: blueviolet;
+    background-color: aqua;
+}
+
+.navbar-nav{
+    padding-right: 0;
+    padding-left: 0;
+    padding-right: 3rem;
+}
+
+h4{
+    background-color: aquamarine;
+    line-height: 1.7;
+    margin: 0px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+
+}
+
+#intro{
+    font-size: 35px;
+}
+
+#image{
+    width: 400px;
+    height: 400px;
+    border-radius: 30px;
+}
+
+#para{
+    font-size: 30px;
+
+}
+
+#trail{
+    background-color: aqua;
+}
+
+#nara{
+    background-color: blanchedalmond;
+}
+
+#letter{
+    background-color: rgb(128, 128, 240);
+}
+
+#bio{
+    background-color: brown;
+}
